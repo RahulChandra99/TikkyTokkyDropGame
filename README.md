@@ -1,61 +1,41 @@
+<div align="center">
+
 # TikkyTokkyDropGame
 
-<div align="center">
+
   
   <a href="https://www.rahulchandraportfolio.com/tikkytokkydropgame" target="_blank">TikkyTokky Drop Game </a> is an endless influencer runner like you've never seen before.
 <br>Run, dodge and get points for swiping up and down at the right time.
   
  
-<a href="https://www.rahulchandraportfolio.com/tikkytokkydropgame" target="_blank"><img src="./HTT Icon.png" alt="demo"></a>
+<a href="https://www.rahulchandraportfolio.com/tikkytokkydropgame" target="_blank"><img src="./src/Icon.png" alt="demo"></a>
   
   </div>
   
-  <a href="https://www.rahulchandraportfolio.com/tikkytokkydropgame" target="_blank">Play Store</a>
+  <div align="center">
   
-![simple car game with pygame tutorial](https://user-images.githubusercontent.com/32107652/162979446-549c88e8-59ff-48b7-ae93-fa4c77204b88.png)
-<br>
-<br>
-This is a very simple car game, which I'm showing how to create step by step
-<br>
-in a YouTube tutorial: https://youtu.be/W-QOtdD3qx4
-<br>
-<h2>About</h2>
-Please feel free to use my code to create your own projects and adapt it as needed.
-<br>
-I highly encourage to pick different car images and customize my design to
-<br>
-create your own unique application without too much effort :)
-<br>
-draw some trees along the way, add other types of obstacles such as roadblocks, flooding, etc.
-<br>
-maybe even load different enemy vehicle images each time they reappear on the screen.
-<br>
+ <a href="https://play.google.com/store/apps/details?id=com.begames.tikkytokkydropgame&hl=en-UK" target="_blank"><img src="./src/PlayStore.png" alt="demo" width="150" 
+     height="50"></a> &nbsp;  &nbsp;    <a href="https://apps.apple.com/gb/app/tikkytokky-drop-game/id6443832970" target="_blank"><img src="./src/AppStore.png" alt="demo" width="150" height="50"></a>
+  
+  </div>
+  
+ 
 <br>
 
-![simple cargame screenshot](https://user-images.githubusercontent.com/32107652/162980293-9d86b030-dcad-4427-8048-fd5498951dcb.png)
+<h1 align = "center">Gameplay</h2>
 
-<h2>Helpful Resources</h2>
-<b>FREE IMAGE RESOURCES</b>
-<br>
-you can find free stock images in the following sites:
+
+<div align = "center">
+  
+<b>Project Type</b>: made under BeGames LTD<br>
+<b>Engine </b>:  Unity 3D <br>
+<b>Programming Language</b>: C# <br>
+<b>Role</b>: Game Programmer <br>
+<b>Version Control</b>: Git <br>
+<b>Assets</b>: Unity Asset store <br>
+  
+  </div>
+
 <br>
 
-- flaticon.com
-- freepik.com
-<br>
-<b>IMAGE EDITING SOFTWARE</b>
-<br>
-if you want to edit those images to customize them further try:
-<br>
-
-- GIMP (free raster image editor)
-- Inkscape (free vector image editor)
-- Adobe Photoshop (paid raster image editor)
-- Adobe Illustrator (paid vector image editor)
-- MS Paint (free with Windows)
-<br>
-<b>Author:</b> Mariya Sha
-<br>
-<b>Dependancies:</b> Pygame, Random, Python 3.9
-<br>
-<br>
+<h1 align = "center">Code Architecture</h2>
