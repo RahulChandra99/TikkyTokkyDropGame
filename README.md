@@ -2,7 +2,7 @@
 
 # TikkyTokkyDropGame
 
-"*not the original Github Repo*"
+"*not the official Github Repo*"
   
   <a href="https://www.rahulchandraportfolio.com/tikkytokkydropgame" target="_blank">TikkyTokky Drop Game </a> is an endless influencer runner like you've never seen before.
 <br>Run, dodge and get points for swiping up and down at the right time.
