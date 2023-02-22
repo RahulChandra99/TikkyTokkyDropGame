@@ -38,4 +38,3 @@
 
 <br>
 
-<h1 align = "center">Code Architecture</h2>
